@@ -5,7 +5,7 @@ body {
 
 header {
     font-family: stencil std, fantasy;
-    font-size: 60px;
+    font-size: 40px;
     font-weight:bold;
     /* text-align: ; */
     length: 450px;
@@ -43,7 +43,7 @@ body {
   height: 350px;
   background: #ffffff00;
   position: absolute;
-  top: 35%;
+  top: 15%;
   right: -31vw;
   /* left: 40%; */
   z-index: 1;
